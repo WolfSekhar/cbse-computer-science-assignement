@@ -1,12 +1,12 @@
-# Check whether a given Text is Palindrome or not
+# Write a recursive Python program to test if a string is a palindrome or not.
 
-def easy(value):
+def isPalindromeEasy(value):
     if (value == value[::-1]):
         print("Is palindrome")
     else:
         print("Not Palindrome")
 
-def hard(value):
+def isPalindrome(value):
     list = []
     for a in value:
         list.append(a)
@@ -20,6 +20,5 @@ def hard(value):
     else:
         print("Not Palindrome")
 
-
 text = str(input("Enter the text for checking : "))
-easy(text)
+isPalindrome(text)

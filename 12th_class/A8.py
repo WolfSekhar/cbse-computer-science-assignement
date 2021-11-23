@@ -24,3 +24,11 @@ def top(list):
 print(top(mylist))
 
 # Implementations for queue
+def enqueue(list,item):
+    list.append(item)
+
+def dequeue(list):
+    list.pop(0)
+
+def isEmpty(list):
+    return size(list) == 0

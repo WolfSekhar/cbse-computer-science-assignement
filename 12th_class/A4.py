@@ -10,16 +10,14 @@ def factorial(number):
         fact *= i
     return fact
 
-def degree_to_rad(degree):
-    return degree * (math.pi / 180)
 
 def sin(x,n):
-    x = degree_to_rad(x)
+    rad = math.radians(x)
     sum = 0
     for i in range(n):
         a = (-1) ** i
         b = factorial((2 * i) + 1)
-        c = x ** ((2 * i) + 1)
+        c = rad ** ((2 * i) + 1)
         sum = sum + ((a * c) / b)
     return sum
 

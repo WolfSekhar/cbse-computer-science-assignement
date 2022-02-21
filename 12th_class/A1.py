@@ -1,7 +1,12 @@
 # Recursively find the factorial of a natural number.
 
 x = int(input("Enter a number :"))
-factorial = 1
-for i in range(x,0,-1):
-    factorial *= i
-print('factorial of ' + str(x) + ' is ' + str(factorial))
+def gcd(a,b):
+    if(b ==0):
+        return a
+    else:
+        return gcd(b,a % b)
+print(gcd(4,12))
+    
+    
+       

@@ -1,4 +1,4 @@
-# CBSE Computer Science Assignments for class 11 and 12
+# CBSE Computer Science Practicals and Assignments for class 11 and 12
 
 ## 11<sup>th</sup> class practicals
 ### [Find the largest and smallest numbers in a list](https://github.com/WolfSekhar/cbse-computer-science-assignement/blob/main/11th_class/A1.py)

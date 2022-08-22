@@ -1,7 +1,7 @@
 # CBSE Computer Science Practicals and Assignments for class 11 and 12
 
 ## 11<sup>th</sup> class practicals
-### [Find the largest and smallest numbers in a list](https://github.com/WolfSekhar/cbse-computer-science-assignement/blob/main/11th_class/A1.py)
+### [Find the largest and smallest numbers in a list/ Find the largest/smallest number in a list/tuple](https://github.com/WolfSekhar/cbse-computer-science-assignement/blob/main/11th_class/A1.py)
 ### [Largest third number from a list](https://github.com/WolfSekhar/cbse-computer-science-assignement/blob/main/11th_class/A2.py)
 ### [Check if a number is prime or not](https://github.com/WolfSekhar/cbse-computer-science-assignement/blob/main/11th_class/A3.py)
 ### [Check whether a given Text is Palindrome or not](https://github.com/WolfSekhar/cbse-computer-science-assignement/blob/main/11th_class/A4.py)
